@@ -152,6 +152,7 @@ public class mainImage extends javax.swing.JFrame {
     capas.mostrarCapa(true);
     this.setVisible(false);
     capas.setVisible(true);
+    
     }//GEN-LAST:event_jButton1MouseClicked
 
     /**
